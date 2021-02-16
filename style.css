@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/5e02decdbada7c55a6d1f3eb/1581535703649-I6DY6ZWJLJSF3UFVSSZG/ke17ZwdGBToddI8pDm48kBQZyiZMFRhiXQkPcbMzhPd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4Wyba38KfG317vYluk45-fXY2U0z8hDKRLF9cUXKImnA1c5tgLyP3hutbwaKW8wg/DSCF6860+copy.jpeg?format=2500w");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Long Cang', sans-serif;
+  color: orangered;
+  align-content: center;
+}
+
+h1, h2 {
+  font-family: 'Long Cang', sans-serif;
+  align-content: center;
+}
+
+.imgContainer{
+  float:left;
+  width: 20%;
+  padding: 15px;
+}
+
+p {
+  text-align: center;
+}
